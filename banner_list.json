@@ -1,7 +1,12 @@
 [
   {
-    "imagePath": "https://cdn.statically.io/gh/connect-more/projectc-banner/master/images/AlertBanner.png",
+    "imagePath": "https://cdn.statically.io/gh/connect-more/projectc-banner/master/images/20230118_update_banner.png",
     "type": "web_view",
     "url": "https://wood-client-467.notion.site/4b0f2c26f2754aeaa6062b1e4297cf6f"
+  },
+  {
+    "imagePath": "https://cdn.statically.io/gh/connect-more/projectc-banner/master/images/20230118_event_banner.png",
+    "type": "web_view",
+    "url": "https://wood-client-467.notion.site/EVENT-2023-3-dba690cfebed4e828e5534e1cbff9c5f"
   }
 ]
